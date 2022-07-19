@@ -2,6 +2,8 @@
 Currently a Computer Engineering Student in Shahid Beheshti University
 
 ## Latest Repositories ✍🏻:
+-[CCNA example projects for Network-Lab course](https://github.com/mrezaamini/CCNA-exampleProjects-NetworkLabCourse)
+
 -[VHDL elevator controller FSM](https://mrezaamini.github.io/Elevator-controller-FSM/)
 
 -[VHDL Serial Adder](https://mrezaamini.github.io/Serial-Adder/)
